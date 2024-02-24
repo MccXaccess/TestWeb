@@ -1,0 +1,24 @@
+[Softwares]
+[Source] | [Name] | [Install CMD]
+Ubuntu Software : .NET Core SDK : SNAP
+Ubuntu Software : GitKraken : SNAP
+Ubuntu Software : dotnet-runtime-60 : SNAP
+Ubuntu Software : Discord : SNAP
+Ubuntu Software : Drawing : SNAP
+Ubuntu Software : firmware-updater : SNAP
+Ubuntu Software : Krita : SNAP
+Ubuntu Software : postman : SNAP
+Ubuntu Software : snap-store : SNAP
+Ubuntu Software : snapd-desktop-integration : SNAP
+Ubuntu Software : Sublime Text : SNAP
+Ubuntu Software : dbeaver-ce : SNAP
+Ubuntu Software : CUPS : SNAP
+Ubuntu Software : code : SNAP
+Ubuntu Software : code-insiders : SNAP
+Ubuntu Software : brave : SNAP
+Ubuntu Software : Telegram Desktop : SNAP
+Ubuntu Software : Extensions Manager : DEB
+Ubuntu Software : Tweaks : DEB
+
+repositories : curl : apt install curl
+deb : steam : dpkg -i steam
