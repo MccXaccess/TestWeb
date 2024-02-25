@@ -29,7 +29,7 @@
 }
 
 .header-top-area {
-    background: #FFB6C1;
+    background: #FA8072	;
     padding: 9px 0;
 }
 .dreamit-header-menu-address ul {
@@ -71,7 +71,7 @@ z-index: 9999;
 animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
 transition: .5s !important;
-background: #FFB6C1	!important;
+background: #FA8072		!important;
 }
 .sticky-nav .dreamit-header-menu ul li a {
     color: #fff;
@@ -123,7 +123,7 @@ display: none;
     margin: 27px 0;
 }
 .dreamit-header-menu ul li a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .header-button {
     display: inline-block;
@@ -133,7 +133,7 @@ display: none;
     font-size: 14px;
     font-weight: 500;
     color: white;
-    background: #FFB6C1;
+    background: #FA8072	;
     padding: 10px 25px;
     border: 2px solid transparent;
     border-radius: 3px;
@@ -162,7 +162,7 @@ display: none;
     overflow: hidden;
     visibility: hidden;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
-    border-top: 3px solid #FFB6C1;
+    border-top: 3px solid #FA8072	;
     padding: 10px 0;
 }
 .dreamit-header-menu ul li:hover .sub-menu{
@@ -184,13 +184,13 @@ display: none;
     margin: 0;
 }
 .dreamit-header-menu ul li .sub-menu ul li a:hover{
-    color:#FFB6C1 !important;
+    color:#FA8072	 !important;
 }
 /* Home Two Css */
 .single-middle-address-icon i {
     font-size: 30px;
     float: left;
-    color: #FFB6C1;
+    color: #FA8072	;
     padding-right: 15px;
 }
 
@@ -204,7 +204,7 @@ display: none;
 }
 
 .single-middle-address-content a {
-    color: #FFB6C1;
+    color: #FA8072	;
     transition: .5s;
 }
 /* ==========================================
@@ -221,7 +221,7 @@ display: none;
     box-shadow: none !important;
 }
 .style-two .menu-bg {
-    background: #FFB6C1;
+    background: #FA8072	;
     border-radius: 3px;
     position: relative;
     margin-bottom: -33px;
@@ -284,7 +284,7 @@ display: none;
     margin-top: -200px;
     border-radius: 50%;
     text-align: center;
-    background-color: #FFB6C1;
+    background-color: #FA8072	;
     width: 70px;
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -473,14 +473,14 @@ display: none;
     transition:.5s;
 }
 .slider-button a:hover{
-	background:#FFB6C1 !important;
+	background:#FA8072	 !important;
 	color:#fff;
-	border: 2px solid #FFB6C1 !important;
+	border: 2px solid #FA8072	 !important;
 }
 .slider-button .active {
     color:#fff;
-    background:#FFB6C1 !important;
-    border: 2px solid #FFB6C1;
+    background:#FA8072	 !important;
+    border: 2px solid #FA8072	;
     transition:.5s;
 }
 .slider-button .active:hover{
@@ -623,7 +623,7 @@ display: none;
 .slider8 .slider-button a {
     color: #fff;
     display: inline-block;
-    background: #FFB6C1;
+    background: #FA8072	;
     border: 0;
     font-size: 15px;
     padding: 15px 50px;
@@ -685,7 +685,7 @@ display: none;
 .slider9 .slider-button a {
     color: #fff;
     display: inline-block;
-    background: #FFB6C1;
+    background: #FA8072	;
     font-size: 17px;
     padding: 17px 65px;
     margin: 0 14px;
@@ -697,7 +697,7 @@ display: none;
 .slider10 .slider-button a {
     color: #fff;
     display: inline-block;
-    background: #FFB6C1;
+    background: #FA8072	;
     font-size: 17px;
     padding: 17px 50px;
     margin: 0 14px;
@@ -720,11 +720,11 @@ display: none;
     height: 78px;
     width: 50px;
     line-height: 76px;
-    border: 1px solid #FFB6C1;
+    border: 1px solid #FA8072	;
     text-align: center;
     border-radius: 2px;
     font-size: 25px;
-    color: #FFB6C1;
+    color: #FA8072	;
     transition: .5s;
 }
 
@@ -736,11 +736,11 @@ display: none;
 }
 
 .owl-prev:hover {
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
 }
 .owl-next:hover{
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;  
 }
 .slider_list:hover .owl-prev{
@@ -790,7 +790,7 @@ text-transform: uppercase;
 .em-slider-sub-title {
     font-size: 19px;
     font-weight: 400;
-    color: #FFB6C1;
+    color: #FA8072	;
     letter-spacing: 2px;
 }
 .em-nav-slider-title-center {
@@ -862,8 +862,8 @@ letter-spacing: 1px;
 border-radius: 5px;
 }
 a.em-active-button {
-    background: #FFB6C1;
-    border-color: #FFB6C1;
+    background: #FA8072	;
+    border-color: #FA8072	;
 }
 .em-button-button-area a:hover {
 color: #fff;
@@ -873,7 +873,7 @@ border-color: #0c5adb;
 a.em-active-button:hover {
 background: #fff;
 border-color: #fff;
-color:#FFB6C1;
+color:#FA8072	;
 }
 .em-slider-half-width {
 width: 50%;
@@ -940,10 +940,10 @@ right: 0;
     height: 78px;
     width: 50px;
     line-height: 74px;
-    border: 1px solid #FFB6C1;
+    border: 1px solid #FA8072	;
     text-align: center;
     display: block;
-    color: #FFB6C1;	
+    color: #FA8072	;	
     font-size: 28px;
     left: 0;
     -webkit-transition: all 0.3s ease 0s;
@@ -954,8 +954,8 @@ right: 0;
     visibility: hidden;
 }
 .em-nivo-slider-wrapper .nivo-directionNav a:hover {
-background: #FFB6C1;
-border-color: #FFB6C1;
+background: #FA8072	;
+border-color: #FA8072	;
 color: #fff;
 }
 .em-nivo-slider-wrapper:hover .nivo-directionNav a {
@@ -980,7 +980,7 @@ z-index: 9;
 display: none;
 }
 .em-nivo-slider-wrapper .nivo-controlNav a {
-    background: #FFB6C1;
+    background: #FA8072	;
     border-radius: 50%;
     cursor: pointer;
     display: inline-block;
@@ -1046,7 +1046,7 @@ text-transform:uppercase;
 }
 .pricing-title h3 {
     font-size: 25px;
-    color: #FFB6C1;
+    color: #FA8072	;
     font-weight: 700;
     margin-bottom: 12px;
 }
@@ -1079,7 +1079,7 @@ text-transform:uppercase;
     color: #565872;
 }
 .dreamit-pricing-box:hover .pricing-button a {
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
 }
 .dreamit-pricing-box:before {
@@ -1126,12 +1126,12 @@ text-transform:uppercase;
     font-size: 20px;
 }
 .dreamit-feature-box:hover .single-feature-content h4 {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .feature-button a {
     font-size: 13px;
     font-weight: 400;
-    color: #FFB6C1;
+    color: #FA8072	;
     letter-spacing: 2px;
     text-decoration: underline;
     padding: 0!important;
@@ -1171,7 +1171,7 @@ text-transform:uppercase;
 /*home page five css*/
 .style-three .dreamit-feature-box-icon i {
     font-size: 60px;
-    color: #FFB6C1;
+    color: #FA8072	;
     padding: 0 0 25px;
 }
 .style-three .dreamit-feature-box {
@@ -1179,7 +1179,7 @@ text-transform:uppercase;
     background: #fff;
     padding: 48px 35px 40px 36px;
     margin-bottom: 30px;
-    border: 5px solid #FFB6C136;
+    border: 5px solid #FA8072	36;
 }
 .style-three .dreamit-feature-box:hover .dreamit-feature-box-icon {
     transform: none;
@@ -1194,7 +1194,7 @@ text-transform:uppercase;
     padding: 0 0 4px 0;
 }
 .style-three .dreamit-feature-box:hover {
-    background: #FFB6C1;
+    background: #FA8072	;
     border-color: transparent;
 }
 .style-three .dreamit-feature-box:hover .dreamit-feature-box-icon i {
@@ -1209,7 +1209,7 @@ text-transform:uppercase;
 .style-three .feature-button a {
     font-size: 14px;
     font-weight: 400;
-    color: #FFB6C1;
+    color: #FA8072	;
     letter-spacing: 0;
     text-decoration: none;
     padding: 0!important;
@@ -1232,7 +1232,7 @@ text-transform:uppercase;
 	start about area Css  
    =========================================*/
 .dreamit-about-calender-box {
-    background: #FFB6C1;
+    background: #FA8072	;
     width: 65%;
     padding: 40px 30px;
     margin-top: -201px;
@@ -1261,7 +1261,7 @@ text-transform:uppercase;
 }
 
 .dreamit-about-content h4 {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 16px;
     font-weight: 600;
 }
@@ -1279,7 +1279,7 @@ text-transform:uppercase;
     font-size: 15px;
 }
 .dreamit-content-inner ul li i {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 22px;
     margin-right: 16px !important;
     display: inline-block;
@@ -1288,15 +1288,15 @@ text-transform:uppercase;
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 400;
-    border: 2px solid #FFB6C1;
-    background: #FFB6C1;
+    border: 2px solid #FA8072	;
+    background: #FA8072	;
     color: #fff;
     padding: 11px 40px;
     display: inline-block;
 }
 .dreamit-about-button a:hover {
     background: #fff;
-    color: #FFB6C1;
+    color: #FA8072	;
 
 }
 /* home two page css*/
@@ -1307,7 +1307,7 @@ text-transform:uppercase;
     text-align: left;
 }
 .feature-box-content h3 {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 100px;
     transition: .5s;
     font-weight: 500;
@@ -1325,12 +1325,12 @@ text-transform:uppercase;
     left: 0;
     width: 35px;
     height: 3px;
-    background: #FFB6C1;
+    background: #FA8072	;
     bottom: -15px;
     transition: .5s;
 }
 .dreanit-single-feature-box:hover {
-    background: #FFB6C1;
+    background: #FA8072	;
     transition: .5s;
 }
 .dreanit-single-feature-box:hover .feature-box-content h3,
@@ -1367,7 +1367,7 @@ text-transform:uppercase;
 }
 .dreamit-setcion-title h4 {
     font-size: 15px;
-    color: #FFB6C1;
+    color: #FA8072	;
     padding: 0px 0 3px 0;
     margin: 0;
 }
@@ -1448,13 +1448,13 @@ text-transform:uppercase;
     text-align: center;
 }
 .style-two .counter-up-text h4 {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 22px;
     font-weight: 500;
     text-align: center;
 }
 .style-two .dreamit-counter {
-    border-left: 1px solid #FFB6C1;
+    border-left: 1px solid #FA8072	;
     margin-bottom: 30px;
 }
 .style-two .row.mrt-counter-box {
@@ -1471,7 +1471,7 @@ text-transform:uppercase;
 /*home page three css*/
 .style-two .counter-up-icon i {
     font-size: 60px;
-    color: #FFB6C1;
+    color: #FA8072	;
     display: inline-block;
     transition: .5s;
 }
@@ -1526,14 +1526,14 @@ text-transform:uppercase;
     font-family: 'Poppins', sans-serif;
 }
 .style-six .counter-up-text h4 {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 22px;
     font-weight: 500;
     text-align: center;
     transition: 
 }
 .style-six .dreamit-counter {
-    border-left: 1px solid #FFB6C1;
+    border-left: 1px solid #FA8072	;
     margin-bottom: 30px;
 }
 .style-six .dreamit-counter.bd-none{
@@ -1583,14 +1583,14 @@ text-transform:uppercase;
     transition: .5s;
 }
 .dreamit-service-box h2:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .service-content p {
     margin-bottom: 8px;
 }
 .service-button a {
     font-size: 14px;
-    color: #FFB6C1;
+    color: #FA8072	;
     font-weight: 500;
     position: relative;
     z-index: 1;
@@ -1611,7 +1611,7 @@ text-transform:uppercase;
     left:0;
     height: 2px;
     width:0%;
-    background: #FFB6C1;
+    background: #FA8072	;
     bottom:-2px;
     transition:.5s;
 }
@@ -1619,9 +1619,9 @@ text-transform:uppercase;
    width:100%; 
 }
 .button a {
-    border: 2px solid #FFB6C1;
+    border: 2px solid #FA8072	;
     padding: 12px 40px;
-    background: #FFB6C1;
+    background: #FA8072	;
     color: white;
     text-transform: uppercase;
     display: inline-block;
@@ -1631,14 +1631,14 @@ text-transform:uppercase;
 }
 .button a:hover {
     background: #fff;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 /*hom page two css*/
 .style-two.service-area {
     background: #f2f5f8;
 }
 .dreamit-section-title h4 {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
@@ -1650,7 +1650,7 @@ text-transform:uppercase;
     padding: 0 0 40px;
 }
 .dreamit-section-title.text-center h2 span {
-    color: #FFB6C1;
+    color: #FA8072	;
    
 }
 .section-title-bg-bar{
@@ -1663,7 +1663,7 @@ text-transform:uppercase;
     content: "";
     height: 2px;
     width: 90px;
-    background: #FFB6C1;
+    background: #FA8072	;
     top: -30px;
     margin: auto;
     left: 0;
@@ -1675,7 +1675,7 @@ text-transform:uppercase;
     content: "";
     height: 2px;
     width: 58px;
-    background: #FFB6C1;
+    background: #FA8072	;
     top: -24px;
     margin: auto;
     left: 0;
@@ -1689,7 +1689,7 @@ text-transform:uppercase;
     margin: auto;
     height: 2px;
     width: 42px;
-    background: #FFB6C1;
+    background: #FA8072	;
     top: -18px;
 }
 .dreamit-section-title p {
@@ -1717,7 +1717,7 @@ text-transform:uppercase;
 .style-two .service-button a {
     font-size: 14px;
     font-weight: 400;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 
 .style-two .service-button a:hover {
@@ -1734,10 +1734,10 @@ text-transform:uppercase;
 
 .style-two .dreamit-service-box:hover {
     transform: translateY(10px);
-    border-color: #FFB6C1;
+    border-color: #FA8072	;
 }
 .service-title p a span {
-    color: #FFB6C1;
+    color: #FA8072	;
     text-decoration: underline;
     transition: .5s;
 }
@@ -1788,7 +1788,7 @@ text-transform:uppercase;
 }
 .style-four .service-button a {
     font-size: 14px;
-    color: #FFB6C1;
+    color: #FA8072	;
     font-weight: 400;
     position: inherit;
     z-index: 1;
@@ -1798,9 +1798,9 @@ text-transform:uppercase;
     transition: .3s;
 }
 .style-four .service-button a:hover {
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
-    border-color: #FFB6C1;
+    border-color: #FA8072	;
 }
 .style-four .service-button a:after,
 .style-four .service-button a:before {
@@ -1846,13 +1846,13 @@ text-transform:uppercase;
     text-transform: capitalize;
 }
 .style-five .service-button a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .style-five .service-content-text p {
     margin: 0 0 8px;
 }
 .style-five .dreamit-service-box:hover {
-    border-color: #FFB6C1;
+    border-color: #FA8072	;
 }
 .style-five .dreamit-service-box:hover .service-box-thumb-icon {
     transform: translateY(-10px);
@@ -1889,7 +1889,7 @@ text-transform:uppercase;
 }
 
 .dreamit-process-number span {
-    background: #FFB6C1;
+    background: #FA8072	;
     height: 50px;
     width: 50px;
     display: block;
@@ -1908,7 +1908,7 @@ text-transform:uppercase;
     top: -5px;
     width: 60px;
     height: 60px;
-    background: #FFB6C1;
+    background: #FA8072	;
     opacity: 0.4;
     content: "";
     margin: auto;
@@ -1921,7 +1921,7 @@ text-transform:uppercase;
     top: -15px;
     width: 80px;
     height: 80px;
-    background: #FFB6C1;
+    background: #FA8072	;
     opacity: 0.2;
     content: "";
     margin: auto;
@@ -1930,7 +1930,7 @@ text-transform:uppercase;
 }
 .dreamit-single-process-thum {
     border-radius: 50%;
-    border: 4px solid #FFB6C1;
+    border: 4px solid #FA8072	;
     display: inline-block;
     text-align: center;
     transition: .5s;
@@ -1964,7 +1964,7 @@ text-transform:uppercase;
 .dreamit-department-title h5 {
     font-size: 15px;
     font-weight: 700;
-    color: #FFB6C1;
+    color: #FA8072	;
     margin-bottom: 15px;
     margin-top: 0;
 }
@@ -1981,7 +1981,7 @@ text-transform:uppercase;
     color: #fff;
     margin-top: 3px;
     border-radius: 100%;
-    background: #FFB6C1;
+    background: #FA8072	;
     height: 20px;
     width: 20px;
     line-height: 20px;
@@ -1996,16 +1996,16 @@ text-transform:uppercase;
 .choose-us-button a {
     font-size: 14px;
     font-weight: 400;
-    border: 2px solid #FFB6C1;
+    border: 2px solid #FA8072	;
     padding: 15px 40px;
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
     text-transform: uppercase;
     transition: .5s;
 }
 .choose-us-button a:hover {
     background: #fff;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 /*home page three css*/
 .why-choose-us-area.style-two {
@@ -2017,14 +2017,14 @@ text-transform:uppercase;
     margin: 0px 0 15px;
 } 
 .style-two .why-choose-us-conent h2:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .style-two .why-choose-us-box {
     text-align: right;
 }
 .style-two .why-choose-us-icon i {
     font-size: 55px;
-    color: #FFB6C1;
+    color: #FA8072	;
     display: inline-block;
 }
 .style-two .why-choose-us-thum img {
@@ -2039,7 +2039,7 @@ text-transform:uppercase;
     transition: 0.5s;
 }
 .contact-address.style-two {
-    background: #FFB6C1;
+    background: #FA8072	;
 }
 .style-two .contact-address:hover {
     background: #549e28;
@@ -2071,7 +2071,7 @@ text-transform:uppercase;
     transition: 0.5s;
 }
 .style-two.home-five .contact-address.style-two {
-    background: #FFB6C1;
+    background: #FA8072	;
 }
 .style-two.home-five .contact-address:hover {
     background: #549e28;
@@ -2088,7 +2088,7 @@ text-transform:uppercase;
     background: #f2f5f8;
 }
 .appointment-left-box {
-    background: #FFB6C1;
+    background: #FA8072	;
     padding: 20px 0 20px;
 }
 
@@ -2126,7 +2126,7 @@ text-transform:uppercase;
 }
 .dreamit-appointment-box .quote_btn button {
     width: 100%;
-    background: #FFB6C1;
+    background: #FA8072	;
     border: 2px solid transparent;
     color: #ffffff;
     padding: 12px 38px;
@@ -2139,12 +2139,12 @@ text-transform:uppercase;
 }
 .dreamit-appointment-box .quote_btn button:hover {
     background: transparent;
-    border-color: #FFB6C1;
-    color: #FFB6C1;
+    border-color: #FA8072	;
+    color: #FA8072	;
 }
 .section-title h1 {
     font-size: 16px;
-    color: #FFB6C1;
+    color: #FA8072	;
     font-weight: 500;
     margin: 30px 0 10px;
 }
@@ -2177,7 +2177,7 @@ text-transform:uppercase;
     text-align: center;
     border-radius: 100%;
     position: relative;
-    color: #FFB6C1;
+    color: #FA8072	;
     -webkit-animation: ripple-white 1s linear infinite;
     animation: ripple-blue 1s linear infinite;
     -webkit-transition: .5s;
@@ -2223,17 +2223,17 @@ text-transform:uppercase;
 }
 .dreamit-department-tab li.nav-item a {
     background: transparent;
-    border: 1px solid #FFB6C1;
+    border: 1px solid #FA8072	;
     padding: 28px 30px 27px;
     margin: 0 20px 11px;
     border-radius: 0;
 }
 .dreamit-department-tab ul li a span {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 19px;
 }
 .dreamit-department-tab-box {
-    border: 5px solid #FFB6C136;
+    border: 5px solid #FA8072	36;
     padding: 40px;
 }
 .dreamit-department-thumb img {
@@ -2246,7 +2246,7 @@ text-transform:uppercase;
 }.dreamit-department-bottom-content-inner ul li i {
     float: left;
     margin-right: 20px;
-    color: #FFB6C1;
+    color: #FA8072	;
     margin-top: 6px;
 }
 .dreamit-department-title h2 {
@@ -2257,7 +2257,7 @@ text-transform:uppercase;
     width: 33%;
 }
 .style-two .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-    background-color: #FFB6C1 !important;
+    background-color: #FA8072	 !important;
 }
 .dreamit-department-tab.style-two li.nav-item a {
     padding: 20px 0 20px;
@@ -2323,7 +2323,7 @@ text-transform:uppercase;
     border-radius: 5px;
 }
 .contact-form-button button {
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
     padding: 14px 89px;
     border-radius: 3px;
@@ -2331,7 +2331,7 @@ text-transform:uppercase;
     margin: 20px 0 10px;
 }
 .quote_btn button {
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
     padding: 14px 89px;
     border-radius: 3px;
@@ -2408,7 +2408,7 @@ text-transform:uppercase;
 }
 .testimonial-icon i {
     font-size: 35px;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .testimonial-content-text{
     position: relative;
@@ -2420,7 +2420,7 @@ text-transform:uppercase;
     margin: 15px 0 0 0;
 }
 .testimonial-content-title span {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 14px;
     font-weight: 500;
     padding-top: 7px;
@@ -2550,12 +2550,12 @@ text-transform:uppercase;
     border-radius: 3px;
 }
 .portfolio_menu ul li.current_menu_item{
-    background: #FFB6C1;
+    background: #FA8072	;
     color:#fff;
-    border-color:#FFB6C1;
+    border-color:#FA8072	;
 }
 .portfolio_menu ul li:hover{
-  background: #FFB6C1;
+  background: #FA8072	;
     color:#fff;  
 }
 .single_portfolio {
@@ -2604,7 +2604,7 @@ text-transform:uppercase;
     height: 60px;
     width: 60px;
     line-height: 60px;
-    background: #FFB6C1;
+    background: #FA8072	;
     display: inline-block;
     text-align: center;
     color: #fff;
@@ -2625,7 +2625,7 @@ text-transform:uppercase;
     padding-bottom: 225px;
 }
 .section-title h5 {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
@@ -2676,7 +2676,7 @@ text-transform:uppercase;
     transition-delay: .7s;
 }
 .single-team-icon a {
-    color: #FFB6C1;
+    color: #FA8072	;
     background: #fff;
     border-radius: 52%;
     display: inline-block;
@@ -2707,12 +2707,12 @@ text-transform:uppercase;
     transition: .5s;
 }
 .dreamit-team-title h2:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .dreamit-team-title span {
     font-size: 14px;
     font-weight: 500;
-    color: #FFB6C1;
+    color: #FA8072	;
     letter-spacing: 1px;
 }
 .dreamit-team-title p {
@@ -2723,7 +2723,7 @@ text-transform:uppercase;
     font-weight: 500;
     margin: 0px 0;
     text-transform: uppercase;
-    color: #FFB6C1;
+    color: #FA8072	;
     display: inline-block;
 }
 /*home page two*/
@@ -2765,7 +2765,7 @@ text-transform:uppercase;
 }
 .style-two .single-team-icon a {
     color: #fff;
-    background: #FFB6C1;
+    background: #FA8072	;
     border-radius: 0;
     display: inline-block;
     font-size: 14px;
@@ -2843,7 +2843,7 @@ text-transform:uppercase;
     transition: .5s;
 }
 .style-three .team-icon a {
-    color: #FFB6C1;
+    color: #FA8072	;
     background: #fff;
     border-radius: 100%;
     display: inline-block;
@@ -2864,7 +2864,7 @@ text-transform:uppercase;
 }
 .style-three .single-team-icon a {
     color: #fff;
-    background: #FFB6C1;
+    background: #FA8072	;
     border-radius: 52%;
     display: inline-block;
     font-size: 14px;
@@ -2917,7 +2917,7 @@ text-transform:uppercase;
 }
 .dreamit-content i {
     font-size: 50px;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .call-do-action-number h1 {
     color: #ffffff;
@@ -2990,11 +2990,11 @@ text-transform:uppercase;
     text-align: center;
     border-radius: 100%;
     position: relative;
-    color: #FFB6C1;
+    color: #FA8072	;
     -webkit-animation: ripple-white 1s linear infinite;
     animation: ripple-blue 1s linear infinite;
     -webkit-transition: .5s;
-    background: #FFB6C1;
+    background: #FA8072	;
     font-size: 28px;
 }
 .video-style-two i {
@@ -3081,11 +3081,11 @@ text-transform:uppercase;
     display: block;
     text-align: center;
     border-radius: 100%;
-    color: #FFB6C1;
+    color: #FA8072	;
     transition:.5s;
 }
 .dreamit-blog-icon a:hover {
-    background:#FFB6C1;
+    background:#FA8072	;
     color: #fff;
 }
 .dreamit-blog-title {
@@ -3104,7 +3104,7 @@ text-transform:uppercase;
     
 }
 .blog-meta-box span:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .blog-meta-box span a {
     color: #565872;
@@ -3116,7 +3116,7 @@ text-transform:uppercase;
     margin-left: 8px;
 }
 .blog-meta-box a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .dreamit-blog-title h2 a {
     font-size: 19px;
@@ -3127,7 +3127,7 @@ text-transform:uppercase;
     line-height: 27px;
 }
 .dreamit-blog-title h2 a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .blog-button {
     padding: 12px 0 0 0;
@@ -3140,16 +3140,16 @@ text-transform:uppercase;
     text-align: center;
     color: #fff;
     padding: 10px 30px;
-    background: #FFB6C1;
-    border: 2px solid #FFB6C1;
+    background: #FA8072	;
+    border: 2px solid #FA8072	;
 } 
 .blog-button a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
     background: #fff;
 } 
 /*home page three css*/
 .category-tag a {
-    color: #FFB6C1;
+    color: #FA8072	;
     padding: 0 5px 0 0;
     font-size: 14px;
     font-weight: 500;
@@ -3162,7 +3162,7 @@ text-transform:uppercase;
 }
 /*home page five css*/
 .style-five .dreamit-section-title h4 {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
@@ -3189,7 +3189,7 @@ text-transform:uppercase;
  ===========================================*/
 
 .contact-address-area {
-    background: #FFB6C1;
+    background: #FA8072	;
     padding: 42px 0;
 }
 .content-icon i {
@@ -3256,7 +3256,7 @@ text-transform:uppercase;
     transition: .3s;
 }
 .footer-menu ul li a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .footer-content p {
     color: #a0a1a2;
@@ -3277,16 +3277,16 @@ text-transform:uppercase;
 .footer-button button {
     font-size: 15px;
     padding: 9px 20px;
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
     transition: .3s;
     text-transform: capitalize;
     font-weight: 500;
     display: inline-block;
-    border: 1px solid #FFB6C1;
+    border: 1px solid #FA8072	;
 }
 .footer-button button:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
     background: transparent;
 }
 /*==========================================
@@ -3322,7 +3322,7 @@ text-transform:uppercase;
     transition: .3s;
 }
 .footer-text-menu ul li a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 
 /*==========================================
@@ -3408,7 +3408,7 @@ text-transform:uppercase;
     color: #FFE;
     text-align: center;
     white-space: nowrap;
-    background-color: #FFB6C1;
+    background-color: #FA8072	;
     transition: width .6s ease;
 }
 
@@ -3461,7 +3461,7 @@ text-transform:uppercase;
     text-transform: uppercase;
     font-size: 12px;
     display: inline-block;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 /*doctor home page css*/
 .team-area.style-three.five {
@@ -3487,19 +3487,19 @@ text-transform:uppercase;
     font-size: 35px;
 }
 .six .call-button a {
-    background: #FFB6C1;
+    background: #FA8072	;
     font-size: 14px;
     color: #fff;
     padding: 14px 40px;
-    border: 2px solid #FFB6C1;
+    border: 2px solid #FA8072	;
     font-weight: 400;
     text-transform: uppercase;
     transition: .5s;
 }
 .six .call-button a:hover {
     background: #fff;
-    border-color: #FFB6C1;
-    color: #FFB6C1;
+    border-color: #FA8072	;
+    color: #FA8072	;
 }
 
 /*doctor details css*/
@@ -3512,7 +3512,7 @@ text-transform:uppercase;
     padding: 15px 0 7px;
 }
 .team-details-title p {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
@@ -3521,7 +3521,7 @@ text-transform:uppercase;
     font-size: 15px;
 }
 .team-details-icon a {
-    background: #FFB6C1;
+    background: #FA8072	;
     border-radius: 3px;
     height: 35px;
     width: 35px;
@@ -3532,7 +3532,7 @@ text-transform:uppercase;
 }
 .team-details-icon2 i {
     font-size: 30px;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .doctor-number h3 {
     font-size: 18px;
@@ -3547,10 +3547,10 @@ text-transform:uppercase;
 }
 .team-details-button a {
     display: inline-block;
-    border: 2px solid #FFB6C1;
+    border: 2px solid #FA8072	;
     font-weight: 500;
     text-transform: uppercase;
-    background: #FFB6C1;
+    background: #FA8072	;
     color: #fff;
     padding: 12px 40px;
     margin-top: 40px;
@@ -3558,7 +3558,7 @@ text-transform:uppercase;
 }
 .team-details-button a:hover {
     background: #fff;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .dreamit-team-details {
     padding: 25px 25px;
@@ -3633,7 +3633,7 @@ text-transform:uppercase;
 }
 .style-two .appointment-button button {
     width: 100%;
-    background: #FFB6C1;
+    background: #FA8072	;
     border: 2px solid transparent;
     color: #ffffff;
     padding: 12px 38px;
@@ -3646,8 +3646,8 @@ text-transform:uppercase;
 }
 .style-two .appointment-button button:hover {
     background: transparent;
-    border-color: #FFB6C1;
-    color: #FFB6C1;
+    border-color: #FA8072	;
+    color: #FA8072	;
 }
 .style-two .dreamit-appointment-box {
     background: #fff;
@@ -3716,19 +3716,19 @@ text-transform:uppercase;
     font-size: 35px;
 }
 .seven .call-button a {
-    background: #FFB6C1;
+    background: #FA8072	;
     font-size: 14px;
     color: #fff;
     padding: 14px 40px;
-    border: 2px solid #FFB6C1;
+    border: 2px solid #FA8072	;
     font-weight: 400;
     text-transform: uppercase;
     transition: .5s;
 }
 .seven .call-button a:hover {
     background: #fff;
-    border-color: #FFB6C1;
-    color: #FFB6C1;
+    border-color: #FA8072	;
+    color: #FA8072	;
 }
 /*pages css*/
 .our-section-title h1 {
@@ -3740,16 +3740,16 @@ text-transform:uppercase;
 }
 .clinic-button a {
     font-weight: 500;
-    border: 2px solid #FFB6C1;
+    border: 2px solid #FA8072	;
     padding: 13px 40px;
-    background: #FFB6C1;
+    background: #FA8072	;
     transition: .3s;
     text-transform: uppercase;
     color: #fff;
 }
 .clinic-button a:hover {
     background: #fff;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 /*service details css*/
 .dreamit-service-details-menu ul li {
@@ -3775,13 +3775,13 @@ text-transform:uppercase;
     right: 0;
     width: 5px;
     height: 100%;
-    background: #FFB6C1;
+    background: #FA8072	;
     opacity: 0;
     z-index: 0;
     transition: .3s;
 }
 .dreamit-service-details-menu ul li a:hover:before {
-    color:#FFB6C1;
+    color:#FA8072	;
     opacity: 1;
 
 }
@@ -3880,7 +3880,7 @@ text-transform:uppercase;
     margin-top: 16px;
 }
 .style-three .dreamit-content-inner ul li i {
-    color: #FFB6C1;
+    color: #FA8072	;
     font-size: 17px;
     margin-right: 12px !important;
     display: inline-block;
@@ -3953,12 +3953,12 @@ text-transform:uppercase;
     margin-bottom: 28px;
 }
 .style-six .blog-title-page h2 a:hover {
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .style-six .blog-inner-button a {
-    background: #FFB6C1;
+    background: #FA8072	;
     padding: 15px 47px;
-    border: 2px solid #FFB6C1;
+    border: 2px solid #FA8072	;
     color: #fff;
     text-transform: uppercase;
     transition: .3s;
@@ -3970,7 +3970,7 @@ text-transform:uppercase;
 }
 .style-six .blog-inner-button a:hover {
     background: #fff;
-    color: #FFB6C1;
+    color: #FA8072	;
 }
 .style-six .dreamit-blog-content {
     margin-bottom: 30px;
@@ -3979,7 +3979,7 @@ text-transform:uppercase;
 .blogquote {
     background: #F6F7FF;
     padding: 50px 50px 50px 108px;
-    border-left: 6px solid #FFB6C1;
+    border-left: 6px solid #FA8072	;
     margin: 32px 0 32px;
     font-size: 24px;
     font-weight: 500;
@@ -3993,7 +3993,7 @@ text-transform:uppercase;
 .blog-icon i {
     font-size: 41px;
     font-weight: 700;
-    color: #FFB6C1;
+    color: #FA8072	;
     margin-left: -68px;
 }
 .blogquote-text {
@@ -4002,7 +4002,7 @@ text-transform:uppercase;
 .blogquote-text span {
     font-size: 14px;
     font-weight: 500;
-    color: #FFB6C1;
+    color: #FA8072	;
     display: block;
     margin-top: 20px;
 }
@@ -4069,7 +4069,7 @@ text-transform:uppercase;
     padding: 34px 20px 34px;
     background: #fff;
     box-shadow: 0 5px 30px rgba(222, 222, 222, 0.4);
-    border-bottom: 4px solid #FFB6C1;
+    border-bottom: 4px solid #FA8072	;
     margin-bottom: 30px;
 }
 .contact-inner-title p {
