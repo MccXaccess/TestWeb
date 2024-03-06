@@ -2369,7 +2369,7 @@ text-transform:uppercase;
     start testimonial area Css  
   ==========================================*/ 
 .testimonial-area {
-    background: url(assets/images/counter.jpg);
+    background: url(assets/images/writerfon.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
@@ -2509,7 +2509,7 @@ text-transform:uppercase;
     z-index: 1;
 }
 .testimonial-area.five {
-    background: url(assets/images/counter.jpg);
+    background: url(assets/images/writerfon.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
